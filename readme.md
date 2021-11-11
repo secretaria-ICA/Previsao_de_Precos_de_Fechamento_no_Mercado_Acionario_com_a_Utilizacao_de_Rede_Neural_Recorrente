@@ -1,5 +1,5 @@
 
-# Previsão de Preços de Fechamento no Mercado Acionário com a Utilização de Rede Neural Recorrente
+# Previsão_de_Preços_de_Fechamento_no_Mercado_Acionário_com_a_Utilização_de_Rede_Neural_Recorrente
 
 #### Aluno: [Pedro Marques](https://github.com/pedromq)
 #### Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8)
@@ -7,9 +7,6 @@
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
-
-
-- [Link para o código](https://github.com/pedromq/TCC/Notebook_TCC_BI_MASTER.ipynb). 
 
 ---
 
